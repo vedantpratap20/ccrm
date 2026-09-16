@@ -1,0 +1,4 @@
+id,regNo,firstName,lastName,email
+S003,REG003,Alice,Johnson,alice@example.com
+S004,REG004,Bob,Williams,bob@example.com
+S005,REG005,Charlie,Brown,charlie@example.com
